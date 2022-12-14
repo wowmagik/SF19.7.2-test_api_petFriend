@@ -1,0 +1,5 @@
+valid_email = 'lattelove92@gmail.com'
+valid_password = 'qwerty88'
+
+invalid_email = 'qwertyu@yandex.ru'
+invalid_password = 'asdfg'
